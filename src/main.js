@@ -24,3 +24,5 @@ function contactFactory(contactData) {
 console.log(
   contactFactory(["Berkeley Platte", "student", "myEmail@email.com"])
 );
+
+console.log(document.querySelector("#metals").value)
